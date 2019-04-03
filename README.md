@@ -1,4 +1,4 @@
-Privacy Statement:
+## Privacy Statement:
 
 ABC takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally-identifiable information collected from clients who register for services and submit information to ABC through the Internet.
 
